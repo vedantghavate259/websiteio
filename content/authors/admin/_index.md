@@ -42,8 +42,8 @@ profiles:
 education:
   - area: Master of Science - Big Data Analytics
     institution: San Diego State University
-    date_start: 2022-08
-    date_end: 2024-05
+    date_start: 2022-08-01
+    date_end: 2024-05-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -51,8 +51,8 @@ education:
       url: 'https://example.com'
   - area: Bachelor of Engineering - Information Technology 
     institution: Savitribai Phule Pune University
-    date_start: 2016-08
-    date_end: 2020-05
+    date_start: 2016-08-01
+    date_end: 2020-05-01
     summary: |
       GPA: 3.4/4.0
       
