@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Looking for Data Science Roles
+title: Vedant Ghavate
 
 # Name pronunciation (optional)
 name_pronunciation: vee-daan-th
@@ -71,6 +71,18 @@ work:
       - Investigated the root cause of inflated sales and decreased production to find incorrect and abnormal data.
       - Achieved a turnaround time of 36 hours to resolve miscellaneous issues with Tableau Dashboard.
 
+  - position: Data Analyst
+    company_name: Yash Dairy & Milk Products
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-05-01
+    date_end: 2020-12-31
+    summary: |
+      Responsibilities include:
+      - Built a Python-based parser for existing spreadsheets and a report-generation system for a dairy business with 650 accounts.
+      - Saved 97% of the time required by replacing manual entry and allowing analysis of daily deliveries, account-wise and product-wise sales.
+      - Engineered visualizations for reviewing monthly data, predicting order volume, and estimating seasonal sales.
+  
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -118,3 +130,7 @@ languages:
     percent: 100
     
 ---
+
+
+
+
