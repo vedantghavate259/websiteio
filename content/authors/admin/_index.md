@@ -111,15 +111,15 @@ skills:
       - name: Badminton
         description: ''
         percent: 60
-        icon: person-simple-play
+        icon: person-simple-run
       - name: Film Making
         description: ''
         percent: 100
         icon: camera
-      - name: write
+      - name: Write
         description: ''
         percent: 80
-        icon: book
+        icon: pen
 
 languages:
   - name: English
