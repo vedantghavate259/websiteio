@@ -31,6 +31,8 @@ profiles:
   - icon: brands/linkedin
     URL: https://www.linkedin.com/in/vedantghavate/
 
+
+
 education:
   - area: Master of Science - Big Data Analytics
     institution: San Diego State University
