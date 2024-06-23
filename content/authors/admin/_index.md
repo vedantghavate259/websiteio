@@ -88,22 +88,26 @@ skills:
         description: ''
         percent: 40
         icon: devicon/mysql
+      - name: Tableau
+        description: ''
+        percent: 40
+        icon: devicon/tableau
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Badminton
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: person-simple-play
+      - name: Film Making
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: camera
+      - name: write
         description: ''
         percent: 80
-        icon: camera
+        icon: book
 
 languages:
   - name: English
@@ -112,3 +116,5 @@ languages:
     percent: 100
   - name: Marathi
     percent: 100
+    
+---
